@@ -4,7 +4,7 @@
 Silver skeleton with a golden halo and bronze antlers. Clothed in rags. [Sigil](../META/Images/mudarax-sigil.png). <br>
 
 ## Links  
-- First visit to [Dreimos](../Locations/Dreimos.md) was when I emerged from [Tufan Tombs](Locations/Tufan-Tombs.md). 
+- First visit to [Dreimos](../Locations/Dreimos.md) was when I emerged from [Tufan Tombs](../Locations/Tufan-Tombs.md). 
 
 ## Waking relevance 
 MUDARAX attests my commitment to the artist's path. I am a musician and a diplomat between light and dark. <br> 
