@@ -6,7 +6,7 @@
 
 - **[Dreimos](Dreimos.md)** — Collective, collaborative dreamscape, continually shaped through waking-life discussion and explored through dream incubation. 
 
-- **The Luminary** — The "Library of Light" is the database where all information about [Dreimos](Dreimos.md) is stored. It consists of so-called "nodes" or files that describe locations, personae, events, items and more. [Luminarians](Luminarian.md) serve as its stewards. 
+- **The Luminary** — The "Library of Light" is the database where all information about [Dreimos](Dreimos.md) is stored. It consists of files that describe locations, personae, events, items and more. [Luminarians](Luminarian.md) serve as its stewards. 
 
 - **[The Drift](Drift.md)** — Our caravan of nomads who design Dreimos in the daytime and inhabit it by nightfall. You can roam freely, or travel with the group. 
 
