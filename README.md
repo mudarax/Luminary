@@ -14,8 +14,12 @@
 
 ## Interacting with Dreimos 
 
-*Luminary interaction + Dream incubation = Dreimos interaction* <br>
-Resources that will teach you how to enter Dreimos: 
+How to interact with Dreimos: 
+- Interact with the Luminary.
+- Interact with the Drift.
+- Practice dream incubation. 
+
+Resources for dream incubation: 
 - https://en.wikipedia.org/wiki/Dream_incubation
 - https://www.youtube.com/watch?v=aXhgYlCaSuA 
 - https://dreamstudies.org/how-to-incubate-a-dream/ 
