@@ -1,6 +1,3 @@
-Join the Drift: https://discord.gg/Zpu9FtRG 
-<br><br> 
-
 **Dream incubation** <br> 
 Techniques used to influence the content of dreams. Quietly focus your intention on the desired theme while falling asleep, and keep a dream journal. See ⁠[Resources](Resources.md). 
 <br><br>
