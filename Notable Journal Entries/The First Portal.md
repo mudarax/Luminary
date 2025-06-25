@@ -1,5 +1,5 @@
 **June 26th-27th 2025** <br>
-I am [Mudarax], and today a great idea struck me. It was [the Dreimos Drift]. <br>
-Tonight I will enter [Dreimos] for the first time. Everything significant I encounter within the dream, will be recorded as the world's first ever canon. <br><br> 
+i am [MUDARAX], and today a great idea struck me. it was [the dreimos drift]. <br>
+tonight i will enter [dreimos] for the first time. everything significant i encounter within the dream, will be recorded as dreimos' first ever canon. <br><br> 
 
 ... 
