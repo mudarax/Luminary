@@ -1,4 +1,4 @@
-The Luminary or "Library of Light" is this repository, where all data about [Dreimos.md](Dreimos.md) is stored. <br> 
+The Luminary or "Library of Light" is the repository where all data about [Dreimos.md](Dreimos.md) is stored. <br> 
 [Luminarians](Luminarian.md) are [Drifters](Drifter.md) who serve as its stewards. <br> 
 Any Drifter can submit changes to the Luminary, but only a Luminarian can enact said changes. <br> 
 It consists of so-called "[nodes](Nodes.md)" or files that describe locations, characters, events, items, etc.. <br> 
